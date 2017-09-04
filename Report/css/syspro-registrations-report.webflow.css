@@ -1,0 +1,304 @@
+.reportsection {
+  background-color: #ccc;
+}
+
+.reportpage {
+  display: block;
+  width: 1122px;
+  min-height: 1122px;
+  margin-right: auto;
+  margin-bottom: 0cm;
+  margin-left: auto;
+  padding: 10px;
+  border: 1px solid #000;
+  background-color: #fff;
+}
+
+.reporttable {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+  float: left;
+  border: 1px solid #f0f0f0;
+}
+
+.reportrow {
+  width: 100%;
+  min-height: auto;
+  margin-bottom: 5px;
+  float: left;
+}
+
+.cols {
+  width: 10%;
+  height: auto;
+  min-height: auto;
+  float: left;
+}
+
+.col1 {
+  width: 10%;
+  float: left;
+}
+
+.col2 {
+  width: 10%;
+  float: left;
+}
+
+.col3 {
+  width: 10%;
+  float: left;
+}
+
+.col4 {
+  width: 10%;
+  float: left;
+}
+
+.col5 {
+  width: 12.5%;
+  float: left;
+}
+
+.col6 {
+  width: 10%;
+  float: left;
+}
+
+.col7 {
+  width: 10%;
+  float: left;
+}
+
+.col8 {
+  width: 10%;
+  float: left;
+}
+
+.col9 {
+  width: 7%;
+  float: left;
+}
+
+.col10 {
+  width: 5%;
+  float: left;
+}
+
+.colh {
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 5px 0px 5px 5px;
+  float: left;
+  background-color: #e0e0e0;
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.plbl {
+  width: 100%;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  padding-left: 5px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #666;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.col1h {
+  width: 10%;
+  float: left;
+}
+
+.col2h {
+  width: 10%;
+  float: left;
+}
+
+.col3h {
+  width: 10%;
+  float: left;
+}
+
+.col4h {
+  width: 10%;
+  float: left;
+}
+
+.col5h {
+  width: 12.5%;
+  float: left;
+}
+
+.col6h {
+  width: 12.5%;
+  float: left;
+}
+
+.col7h {
+  width: 10%;
+  float: left;
+}
+
+.col8h {
+  width: 12.5%;
+  float: left;
+}
+
+.colsh {
+  float: left;
+}
+
+.registrations {
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.editrow {
+  overflow: hidden;
+  width: 100%;
+  height: 0px;
+  float: left;
+}
+
+.personform {
+  width: 100%;
+  float: left;
+}
+
+.personedit {
+  width: 150px;
+  padding: 5px;
+  float: right;
+  background-color: #686868;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.personedit:hover {
+  background-color: #8b8b8b;
+}
+
+.persontxt {
+  display: none;
+  float: left;
+}
+
+.formdiv {
+  width: 100%;
+  float: left;
+}
+
+.editfield {
+  overflow: hidden;
+  width: 100%;
+  height: 30px;
+  float: left;
+  border: 1px solid #d1d1d1;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.submitrow {
+  width: 100%;
+  float: left;
+}
+
+.starsrow {
+  width: 100%;
+  margin-top: 10px;
+  float: left;
+}
+
+.statrow {
+  width: 100%;
+  min-height: 25px;
+  float: left;
+}
+
+.citylbl {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.infolbl {
+  width: 25%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.infos {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.statstable {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 5px;
+  float: left;
+  border: 1px solid #f0f0f0;
+}
+
+.sidebar {
+  position: fixed;
+  top: 25%;
+  right: 0%;
+  width: 8%;
+  min-height: 100px;
+  float: left;
+}
+
+.citybtn {
+  width: 100%;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  float: right;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #353535;
+  opacity: 0.3;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.col11 {
+  width: 5%;
+  float: left;
+}
+
+.col9h {
+  width: 12.5%;
+  float: left;
+}
